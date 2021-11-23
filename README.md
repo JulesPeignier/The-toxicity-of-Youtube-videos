@@ -8,4 +8,4 @@ variables in the database.
 
 -------------------
 Developped by Aymen Kallala, Jules Peignier, Mélanie Bratulic, Quentin Andre et Sabrinel Zoubir
--------------------
+
