@@ -7,5 +7,5 @@ video.
 variables in the database.
 
 -------------------
-Developped by Aymen Kallala, Jules Peignier, Mélanie Bratulic, Quentin Andre et Sabrinel Zoubir
+Developped by Aymen Kallala, Jules Peignier, Mélanie Bratulic, Quentin André et Sabrinel Zoubir
 
