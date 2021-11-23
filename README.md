@@ -5,3 +5,7 @@ We set out to	understand where and when online aggression is found and what fact
 video.	 
 * Secondly, by constructing and then predicting an original toxicity indicator from the	
 variables in the database.
+
+-------------------
+Developped by Aymen Kallala, Jules Peignier, Mélanie Bratulic, Quentin Andre et Sabrinel Zoubir
+-------------------
